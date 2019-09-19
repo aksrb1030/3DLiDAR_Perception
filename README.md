@@ -4,8 +4,10 @@
 
 ### How to use
 
-####First git clone
+First git clone https://github.com/aksrb1030/3DLiDAR_Perception
 
-    #### 1. Workspace namms's ouster_ws as ROS package and using ouster LiDAR
+And you can download ros bag gile in here
 
-        #### $ git clone 
+    1. Workspace namms's ouster_ws as ROS package and using ouster LiDAR
+        $ cd ouster_ws
+        
