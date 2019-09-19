@@ -1,0 +1,9 @@
+<launch>
+<node pkg="ouster_lidar" name="separate_ground" type="separate_ground" output="screen"/>
+<node pkg="ouster_lidar" name="segmentation" type="segmentation" output="screen"/>
+<node pkg="ouster_lidar" name="classification" type="classification" output="screen"/>
+<!-- <node pkg="ouster_lidar" name="ransac" type="ransac" output="screen"/> -->
+<node pkg="ouster_lidar" name="tracking" type="tracking" output="screen"/>
+<!-- <node pkg="ouster_lidar" name="line" type="line" output="screen"/> -->
+<node pkg="ouster_lidar" name="l_shape" type="l_shape" output="screen"/>
+</launch>

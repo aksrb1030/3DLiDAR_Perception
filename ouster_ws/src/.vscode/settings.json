@@ -1,0 +1,34 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "thread": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "cctype": "cpp",
+        "cmath": "cpp",
+        "csignal": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "atomic": "cpp",
+        "strstream": "cpp",
+        "chrono": "cpp",
+        "cstdint": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "ratio": "cpp",
+        "cinttypes": "cpp",
+        "typeindex": "cpp",
+        "limits": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/mgkim/ouster_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

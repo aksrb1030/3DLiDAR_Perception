@@ -1,0 +1,2 @@
+ouster_example/ouster_client:ouster_example/ouster_ros:ouster_example/ouster_viz:ouster_lidar
+-DCATKIN_DEVEL_PREFIX=/home/bae/ouster_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bae/ouster_ws/install -G Unix Makefiles

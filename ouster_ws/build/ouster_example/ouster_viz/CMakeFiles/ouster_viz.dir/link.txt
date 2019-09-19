@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/bae/ouster_ws/devel/lib/libouster_viz.a  CMakeFiles/ouster_viz.dir/src/viz.cpp.o
+/usr/bin/ranlib /home/bae/ouster_ws/devel/lib/libouster_viz.a

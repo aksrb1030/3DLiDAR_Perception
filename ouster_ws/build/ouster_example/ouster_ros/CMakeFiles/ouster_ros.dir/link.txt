@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/bae/ouster_ws/devel/lib/libouster_ros.a  CMakeFiles/ouster_ros.dir/src/os1_ros.cpp.o
+/usr/bin/ranlib /home/bae/ouster_ws/devel/lib/libouster_ros.a
